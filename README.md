@@ -5,6 +5,8 @@
 
 ![](http://webcodegeeks.javacodegeeks.netdna-cdn.com/wp-content/uploads/2014/11/sidewalk-cafes-table.jpg)
 
+![](http://webcodegeeks.javacodegeeks.netdna-cdn.com/wp-content/uploads/2014/11/sidewalk-cafes-screenshot.jpg)
+
 * [http://www.kogonuso.com/2015/09/efficiently-paging-geospatial-data-with.html]
 
 * [http://emptysqua.re/blog/paging-geo-mongodb/]
