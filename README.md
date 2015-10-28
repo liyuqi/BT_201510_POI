@@ -1,5 +1,15 @@
 # BT_201510_POI
 
+### family 練習
+
+[link](http://www.family.com.tw/marketing/inquiry.aspx)
+
+### Bruce 影片 ref
+
+[video](https://t.co/mPEncnNPvI)
+
+[code](https://gist.github.com/xianlin/54dd0495494c6d28731a)
+
 
 ### python ref
 
